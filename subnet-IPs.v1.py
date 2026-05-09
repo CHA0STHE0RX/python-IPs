@@ -72,7 +72,6 @@ for b in ipAddressParts:
 
 # print results
 print("")
-
 printBinary(ipAddress)
 print(" ", end="")
 print()
@@ -92,7 +91,6 @@ firstAddress = netAddress +1
 lastAddress= broadcastAddress -1
 totalHosts=2**(32- netmaskBits)
 totalUsable= totalHosts -2
-
 
 print("IP:   ", end="")
 printDotNotaion(ipAddress)
