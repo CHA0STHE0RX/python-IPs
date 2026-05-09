@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#CHA0STHE0RX
 #Made in 2024
 import sys
 import math
